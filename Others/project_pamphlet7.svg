@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 426 1280">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 6.46px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32, .st33, .st34, .st35, .st36, .st37, .st38, .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st13, .st14, .st15, .st17, .st18, .st25, .st26, .st28, .st38, .st41, .st42, .st44, .st45 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st0, .st3, .st4, .st6, .st7, .st9, .st11, .st48, .st49, .st50, .st15, .st16, .st18, .st19, .st21, .st23, .st24, .st25, .st26, .st27, .st51, .st52, .st53, .st35, .st39, .st42, .st44, .st45, .st47 {
+        fill: #fff;
+      }
+
+      .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62 {
+        stroke: #fff;
+      }
+
+      .st54, .st63 {
+        fill: #e74c3c;
+      }
+
+      .st54, .st64, .st65, .st59, .st60, .st66 {
+        stroke-width: .8px;
+      }
+
+      .st67 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st67, .st5, .st68, .st10, .st69, .st70, .st71, .st72, .st73, .st74, .st75, .st30, .st76, .st31, .st34, .st36, .st77, .st78, .st40, .st79, .st43 {
+        stroke: #2c3e50;
+      }
+
+      .st67, .st5, .st10, .st70, .st71, .st73, .st74, .st75, .st30, .st76, .st31, .st34, .st36, .st40, .st79, .st43 {
+        stroke-width: .2px;
+      }
+
+      .st1, .st3, .st4, .st7, .st8, .st9, .st11, .st12, .st16, .st19, .st20, .st21, .st23, .st24, .st27, .st29, .st32, .st33, .st35, .st37, .st39, .st47 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st1, .st4 {
+        font-size: 14px;
+      }
+
+      .st1, .st8, .st80, .st13, .st20, .st29, .st32, .st37, .st41 {
+        fill: #2c3e50;
+      }
+
+      .st2 {
+        fill: #95a5a6;
+        font-size: 8px;
+      }
+
+      .st3, .st41 {
+        font-size: 6px;
+      }
+
+      .st81 {
+        fill: #f1c40f;
+      }
+
+      .st82 {
+        fill: url(#linear-gradient39);
+      }
+
+      .st83 {
+        stroke: url(#linear-gradient6);
+        stroke-width: 1.8px;
+      }
+
+      .st83, .st56, .st57, .st64, .st58, .st65, .st60, .st66, .st62 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: url(#linear-gradient16);
+      }
+
+      .st5, .st10, .st30, .st31, .st34, .st36, .st40, .st43 {
+        opacity: .7;
+      }
+
+      .st68 {
+        fill: url(#linear-gradient34);
+      }
+
+      .st68, .st69, .st72, .st77, .st78 {
+        stroke-miterlimit: 4.8;
+        stroke-width: .24px;
+      }
+
+      .st84 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st84, .st85, .st86, .st87 {
+        stroke: #2980b9;
+      }
+
+      .st84, .st85, .st88, .st62 {
+        stroke-width: 1.5px;
+      }
+
+      .st6 {
+        opacity: .9;
+      }
+
+      .st7 {
+        font-size: 5px;
+      }
+
+      .st8, .st14 {
+        font-size: 10px;
+      }
+
+      .st89 {
+        fill: url(#linear-gradient10);
+      }
+
+      .st90 {
+        fill: #e67e22;
+      }
+
+      .st9 {
+        font-size: 7.49px;
+      }
+
+      .st55, .st48, .st91, .st92, .st86, .st93, .st51, .st87, .st52, .st53, .st94, .st46, .st95 {
+        stroke-width: 2px;
+      }
+
+      .st96 {
+        fill: #ff6b6b;
+      }
+
+      .st10 {
+        fill: url(#linear-gradient26);
+      }
+
+      .st56 {
+        stroke-width: 2.5px;
+      }
+
+      .st97 {
+        fill: #336791;
+      }
+
+      .st11 {
+        font-size: 11.23px;
+      }
+
+      .st12 {
+        font-size: 11px;
+      }
+
+      .st12, .st98, .st46 {
+        fill: #34495e;
+      }
+
+      .st69 {
+        fill: url(#linear-gradient31);
+      }
+
+      .st48 {
+        stroke: #9b59b6;
+      }
+
+      .st70 {
+        fill: url(#linear-gradient14);
+      }
+
+      .st99 {
+        fill: #76b900;
+      }
+
+      .st13, .st29, .st35 {
+        font-size: 7px;
+      }
+
+      .st14, .st17 {
+        fill: #bdc3c7;
+      }
+
+      .st50, .st100, .st91, .st88 {
+        stroke: #bdc3c7;
+      }
+
+      .st100, .st91, .st28, .st38, .st88 {
+        fill: #ecf0f1;
+      }
+
+      .st101, .st33 {
+        fill: #3498db;
+      }
+
+      .st102 {
+        fill: url(#linear-gradient11);
+      }
+
+      .st85 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st15 {
+        font-size: 5.86px;
+      }
+
+      .st103, .st59 {
+        fill: #27ae60;
+      }
+
+      .st16, .st38 {
+        font-size: 10.21px;
+      }
+
+      .st17 {
+        font-size: 8.17px;
+      }
+
+      .st18 {
+        font-size: 7.03px;
+      }
+
+      .st19 {
+        font-size: 10.71px;
+      }
+
+      .st20, .st21 {
+        font-size: 9.37px;
+      }
+
+      .st71 {
+        fill: url(#linear-gradient15);
+      }
+
+      .st104 {
+        fill: #f39c12;
+      }
+
+      .st23 {
+        font-size: 4px;
+      }
+
+      .st24, .st37 {
+        font-size: 10.55px;
+      }
+
+      .st25 {
+        font-size: 6.07px;
+      }
+
+      .st72 {
+        fill: url(#linear-gradient25);
+      }
+
+      .st105 {
+        fill: #9b59b6;
+      }
+
+      .st73 {
+        fill: url(#linear-gradient27);
+      }
+
+      .st106 {
+        fill: #f8f9fa;
+      }
+
+      .st57 {
+        stroke-width: .7px;
+      }
+
+      .st92 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st92, .st53, .st94 {
+        stroke: #e67e22;
+      }
+
+      .st107 {
+        fill: #7952b3;
+      }
+
+      .st26 {
+        font-size: 5.95px;
+      }
+
+      .st27, .st32, .st33 {
+        font-size: 16px;
+      }
+
+      .st64 {
+        stroke: url(#linear-gradient23);
+      }
+
+      .st108 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st74 {
+        fill: url(#linear-gradient12);
+      }
+
+      .st75 {
+        fill: url(#linear-gradient36);
+      }
+
+      .st86 {
+        fill: url(#linear-gradient18);
+      }
+
+      .st93 {
+        fill: url(#linear-gradient17);
+        stroke: #c0392b;
+      }
+
+      .st51, .st95 {
+        stroke: #27ae60;
+      }
+
+      .st28, .st109 {
+        font-size: 12px;
+      }
+
+      .st30 {
+        fill: url(#linear-gradient35);
+      }
+
+      .st76 {
+        fill: url(#linear-gradient33);
+      }
+
+      .st110 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st87 {
+        fill: url(#linear-gradient20);
+      }
+
+      .st31 {
+        fill: url(#linear-gradient38);
+      }
+
+      .st111 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st52 {
+        stroke: #3498db;
+      }
+
+      .st112 {
+        fill: #3776ab;
+      }
+
+      .st65 {
+        stroke: url(#linear-gradient21);
+      }
+
+      .st109 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st34 {
+        fill: url(#linear-gradient13);
+      }
+
+      .st36 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st113 {
+        fill: #0769ad;
+      }
+
+      .st77 {
+        fill: url(#linear-gradient28);
+      }
+
+      .st114 {
+        fill: #5c85d6;
+      }
+
+      .st39 {
+        font-size: 5px;
+      }
+
+      .st115 {
+        fill: #00d4aa;
+      }
+
+      .st78 {
+        fill: url(#linear-gradient37);
+      }
+
+      .st94 {
+        fill: url(#linear-gradient24);
+      }
+
+      .st40 {
+        fill: url(#linear-gradient29);
+      }
+
+      .st79 {
+        fill: url(#linear-gradient30);
+      }
+
+      .st42 {
+        font-size: 8.2px;
+      }
+
+      .st116 {
+        fill: #e34f26;
+      }
+
+      .st117 {
+        fill: url(#linear-gradient);
+      }
+
+      .st43 {
+        fill: url(#linear-gradient32);
+      }
+
+      .st44 {
+        font-size: 6.11px;
+      }
+
+      .st45 {
+        font-size: 6.32px;
+      }
+
+      .st66 {
+        stroke: url(#linear-gradient22);
+      }
+
+      .st46 {
+        opacity: .1;
+        stroke: #34495e;
+      }
+
+      .st95 {
+        fill: url(#linear-gradient19);
+      }
+
+      .st47 {
+        font-size: 18px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-1488.5" y1="-1.67" x2="-1487.5" y2="-.67" gradientTransform="translate(634100 200) scale(426 120)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c3e50"/>
+      <stop offset="1" stop-color="#34495e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-1450.06" y1="-5.53" x2="-1448.98" y2="-4.44" gradientTransform="translate(52272 377) scale(36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="-1470.46" y1="-4.21" x2="-1469.37" y2="-3.12" gradientTransform="translate(102983 430) scale(70 45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="-1438.07" y1="-7.75" x2="-1436.98" y2="-6.66" gradientTransform="translate(40442 410) scale(28 25)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27ae60"/>
+      <stop offset="1" stop-color="#229954"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="-1240.14" y1="-32.25" x2="-1239.06" y2="-31.16" gradientTransform="translate(7629 416) scale(6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27ae60"/>
+      <stop offset="1" stop-color="#229954"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="-1438.07" y1="-7.75" x2="-1436.98" y2="-6.66" gradientTransform="translate(40474 410) scale(28 25)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" x1="-1303.46" y1="-48.03" x2="-1302.32" y2="-46.89" gradientTransform="translate(10644 417) scale(8 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient7" x1="-1205.36" y1="129.68" x2="-1204.3" y2="129.68" gradientTransform="translate(5295.49 -2972.59) rotate(-27.07) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient8" x1="-1204.33" y1="129.59" x2="-1204.33" y2="129.59" gradientTransform="translate(5295.49 -2972.59) rotate(-27.07) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient9" x1="-1475.25" y1="-3.28" x2="-1474.16" y2="-2.19" gradientTransform="translate(133048 385) scale(90 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient10" x1="-1384.09" y1="-19.42" x2="-1383" y2="-18.33" gradientTransform="translate(19672 411) scale(14 10)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient11" x1="-1366.14" y1="-16.2" x2="-1364.96" y2="-15.03" gradientTransform="translate(16734 412) scale(12)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient12" x1="-1189.72" y1="-47.89" x2="-1188.72" y2="-47.89" gradientTransform="translate(6223 415) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient13" x1="-1188.72" y1="-47.89" x2="-1188.72" y2="-47.89" gradientTransform="translate(6223 415) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient14" x1="-1244.66" y1="-103.75" x2="-1244.66" y2="-103.75" xlink:href="#linear-gradient13"/>
+    <linearGradient id="linear-gradient15" x1="-1668.39" y1="-309.67" x2="-1667.23" y2="-309.67" gradientTransform="translate(-4740.05 7045.65) rotate(118.61) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient16" x1="-1667.22" y1="-309.76" x2="-1667.22" y2="-309.76" gradientTransform="translate(-4740.05 7045.65) rotate(118.61) scale(5 4)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient17" x1="-1479.63" y1="-2.3" x2="-1478.54" y2="-1.21" gradientTransform="translate(177718 590) scale(120 70)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e74c3c"/>
+      <stop offset="1" stop-color="#c0392b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient18" x1="-1479.56" y1="-2.86" x2="-1478.39" y2="-1.69" gradientTransform="translate(177648 500) scale(120 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient19" x1="-1479.43" y1="-2.6" x2="-1478.22" y2="-1.39" gradientTransform="translate(177788 500) scale(120 75)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#27ae60"/>
+      <stop offset="1" stop-color="#229954"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient20" x1="-1476.75" y1="-2.42" x2="-1475.66" y2="-1.33" gradientTransform="translate(147853 680) scale(100 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient21" x1="-1300.32" y1="-141.45" x2="-1299.19" y2="-140.32" gradientTransform="translate(10603 713) scale(8 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient22" x1="-1300.32" y1="-140.87" x2="-1299.19" y2="-139.73" gradientTransform="translate(10603 715) scale(8 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient23" x1="-1300.32" y1="-139.71" x2="-1299.19" y2="-138.58" gradientTransform="translate(10603 719) scale(8 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2980b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient24" x1="-1472.92" y1="-2.41" x2="-1471.83" y2="-1.32" gradientTransform="translate(118133 680) scale(80 60)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f39c12"/>
+      <stop offset="1" stop-color="#e67e22"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient25" x1="-1720.21" y1="138.7" x2="-1719.17" y2="138.7" gradientTransform="translate(-9716.55 -2423.05) rotate(-160.71) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient26" x1="-1719.17" y1="138.76" x2="-1719.17" y2="138.76" gradientTransform="translate(-9716.55 -2423.05) rotate(-160.71) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient27" x1="-1661.87" y1="192.24" x2="-1661.87" y2="192.24" xlink:href="#linear-gradient26"/>
+    <linearGradient id="linear-gradient28" x1="-1271.27" y1="-154.97" x2="-1270.22" y2="-154.97" gradientTransform="translate(6961.7 4111.95) rotate(23.2) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient29" x1="-1270.25" y1="-154.9" x2="-1270.25" y2="-154.9" gradientTransform="translate(6961.7 4111.95) rotate(23.2) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient30" x1="-1336.48" y1="-216" x2="-1336.48" y2="-216" xlink:href="#linear-gradient29"/>
+    <linearGradient id="linear-gradient31" x1="-1744.98" y1="-10.34" x2="-1743.97" y2="-10.34" gradientTransform="translate(-10279.71 1864.42) rotate(172.41) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient32" x1="-1744.04" y1="-10.37" x2="-1744.04" y2="-10.37" gradientTransform="translate(-10279.71 1864.42) rotate(172.41) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient33" x1="-1739.27" y1="102.16" x2="-1739.27" y2="102.16" xlink:href="#linear-gradient32"/>
+    <linearGradient id="linear-gradient34" x1="-1723.06" y1="-128.68" x2="-1721.99" y2="-128.68" gradientTransform="translate(-9063.72 5120.46) rotate(150.26) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient35" x1="-1722.07" y1="-128.78" x2="-1722.07" y2="-128.78" gradientTransform="translate(-9063.72 5120.46) rotate(150.26) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient36" x1="-1734.95" y1="-10.42" x2="-1734.95" y2="-10.42" xlink:href="#linear-gradient35"/>
+    <linearGradient id="linear-gradient37" x1="-1255.01" y1="-110.57" x2="-1253.98" y2="-110.57" gradientTransform="translate(7457.45 2982.59) rotate(14.93) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient38" x1="-1253.95" y1="-110.52" x2="-1253.95" y2="-110.52" gradientTransform="translate(7457.45 2982.59) rotate(14.93) scale(6 4.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3498db"/>
+      <stop offset="1" stop-color="#2c3e50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient39" x1="-1488.49" y1="-.97" x2="-1487.51" y2="0" gradientTransform="translate(634100 1130) scale(426 200)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a252f"/>
+      <stop offset="0.5" stop-color="#2c3e50"/>
+      <stop offset="1" stop-color="#34495e"/>
+    </linearGradient>
+    
+    <!-- Arrow marker definitions -->
+    <marker id="arrowhead" markerWidth="4" markerHeight="3" 
+            refX="4" refY="1.5" orient="auto">
+      <polygon points="0 0, 4 1.5, 0 3" fill="#2c3e50" />
+    </marker>
+    
+    <!-- Enhanced arrow marker with gradient -->
+    <marker id="gradientArrow" markerWidth="5" markerHeight="4" 
+            refX="5" refY="2" orient="auto">
+      <polygon points="0 0, 5 2, 0 4" fill="url(#arrowGradient)" stroke="#2c3e50" stroke-width="0.2"/>
+    </marker>
+    
+    <!-- Arrow gradient -->
+    <linearGradient id="arrowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c3e50;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect class="st106" width="426" height="1280"/>
+  
+  <!-- Wave Background with Gradient -->
+  <defs>
+    <linearGradient id="waveGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a252f;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="waveGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="waveGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5dade2;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#85c1e9;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main Title Background -->
+  <rect width="426" height="120" fill="url(#waveGradient1)"/>
+  
+  <!-- Wave Layer 1 (Bottom layer - largest waves) -->
+  <path d="M0,80 Q106.5,40 213,80 T426,80 L426,120 L0,120 Z" fill="url(#waveGradient2)"/>
+  
+  <!-- Wave Layer 2 (Middle layer - medium waves) -->
+  <path d="M0,90 Q85.2,60 170.4,90 T340.8,90 Q383.4,75 426,90 L426,120 L0,120 Z" fill="url(#waveGradient3)"/>
+  
+  <!-- Wave Layer 3 (Top layer - small waves) -->
+  <path d="M0,100 Q71,80 142,100 T284,100 Q355,90 426,100 L426,120 L0,120 Z" fill="rgba(255,255,255,0.2)"/>
+  
+  <!-- Decorative wave details -->
+  <path d="M0,70 Q53.25,50 106.5,70 T213,70 Q266.25,55 319.5,70 T426,70" stroke="rgba(255,255,255,0.3)" stroke-width="2" fill="none"/>
+  <path d="M0,85 Q42.6,65 85.2,85 T170.4,85 Q213,75 255.6,85 T340.8,85 Q362.1,80 383.4,85 T426,85" stroke="rgba(255,255,255,0.2)" stroke-width="1.5" fill="none"/>
+  
+  <g class="st22">
+    <text class="st47" transform="translate(54.45 40)"><tspan x="0" y="0">Safety Compliance Detection System</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st28" transform="translate(104.73 65)"><tspan x="0" y="0">Real-time PPE Detection using YOLOv8l</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st14" transform="translate(115.85 85)"><tspan x="0" y="0">Helmet • Safety Vest • Face Mask Detection</tspan></text>
+  </g>
+  
+  <!-- Wave Edge Pattern Between Title and Architecture Section -->
+  <path d="M0,120 Q71,110 142,120 T284,120 Q355,115 426,120" stroke="rgba(255,255,255,0.4)" stroke-width="3" fill="none"/>
+  <path d="M0,125 Q53.25,115 106.5,125 T213,125 Q266.25,120 319.5,125 T426,125" stroke="rgba(255,255,255,0.3)" stroke-width="2" fill="none"/>
+  
+  <rect class="st50" x="10" y="130" width="406" height="500" rx="8" ry="8"/>
+  <g class="st22">
+    <text class="st1" transform="translate(145.18 155)"><tspan x="0" y="0">System Architecture</tspan></text>
+  </g>
+  <g>
+    <g id="stage1">
+      <ellipse class="st85" cx="89.42" cy="197.66" rx="18" ry="21.09"/>
+      <ellipse class="st49" cx="89.42" cy="191.8" rx="6" ry="7.03"/>
+      <path class="st56" d="M74.42,204.69c10-2.34,20-2.34,30,0"/>
+      <rect class="st84" x="54.42" y="238.67" width="70" height="52.73" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st24" transform="translate(65.92 262.1) scale(.85 1)"><tspan x="0" y="0">User Login</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st42" transform="translate(67.24 273.82) scale(.85 1)"><tspan x="0" y="0">Authentication</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st42" transform="translate(73.66 285.54) scale(.85 1)"><tspan x="0" y="0">&amp; Session</tspan></text>
+      </g>
+      <rect class="st88" x="169.42" y="185.94" width="75" height="64.45" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st37" transform="translate(174.17 205.86) scale(.85 1)"><tspan x="0" y="0">Input Selection</tspan></text>
+      </g>
+      <rect class="st111" x="177.42" y="215.23" width="28" height="29.29" rx="3" ry="3"/>
+      <ellipse class="st49" cx="191.42" cy="225.78" rx="6" ry="7.03"/>
+      <ellipse class="st108" cx="191.42" cy="225.78" rx="3" ry="3.52"/>
+      <g class="st22">
+        <text class="st15" transform="translate(181.6 241.01) scale(.85 1)"><tspan x="0" y="0">Webcam</tspan></text>
+      </g>
+      <rect class="st110" x="209.42" y="215.23" width="28" height="29.29" rx="3" ry="3"/>
+      <rect class="st49" x="213.42" y="219.92" width="20" height="14.06" rx="1" ry="1"/>
+      <path class="st83" d="M219.42,223.44l4,4.69,4-4.69"/>
+      <g class="st22">
+        <text class="st15" transform="translate(215.5 241.01) scale(.85 1)"><tspan x="0" y="0">Upload</tspan></text>
+      </g>
+    </g>
+    <!-- Arrow 1: From Authentication to Input Selection -->
+    <line x1="124" y1="238" x2="169" y2="218" stroke="#2c3e50" stroke-width="1" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    
+    <!-- Arrow 2: From Input Selection to Video Processing -->
+    <line x1="244" y1="218" x2="279" y2="218" stroke="#2c3e50" stroke-width="1" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    <g id="stage2">
+      <rect class="st92" x="279.42" y="185.94" width="90" height="70.3" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st24" transform="translate(286.74 205.86) scale(.85 1)"><tspan x="0" y="0">Video Processing</tspan></text>
+      </g>
+      <g>
+        <rect class="st6" x="294.42" y="215.23" width="16" height="14.06" rx="1" ry="1"/>
+        <rect class="st89" x="295.42" y="216.41" width="14" height="11.72"/>
+        <rect class="st49" x="296.42" y="217.58" width="4" height="2.93"/>
+        <rect class="st49" x="300.92" y="217.58" width="4" height="2.93"/>
+        <rect class="st49" x="305.42" y="217.58" width="4" height="2.93"/>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(295.2 241.01) scale(.85 1)"><tspan x="0" y="0">Frame</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(291.3 248.04) scale(.85 1)"><tspan x="0" y="0">Extraction</tspan></text>
+      </g>
+      <g>
+        <ellipse class="st6" cx="347.42" cy="224.61" rx="7" ry="8.2"/>
+        <path class="st102" d="M341.42,224.61l6-7.03,6,7.03-6,7.03-6-7.03Z"/>
+        <ellipse class="st49" cx="347.42" cy="224.61" rx="3" ry="3.52"/>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(342.7 241.01) scale(.85 1)"><tspan x="0" y="0">Pre-</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(335.33 248.04) scale(.85 1)"><tspan x="0" y="0">processing</tspan></text>
+      </g>
+    </g>
+    <!-- Arrow 3: From Video Processing to YOLOv8l Detection -->
+    <line x1="329" y1="256" x2="329" y2="299" stroke="#2c3e50" stroke-width="1" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    
+    <!-- CONNECTING ARROWS BETWEEN TIERS -->
+    <!-- From YOLOv8l Detection to Object Tracking (Row 2 - right to left) -->
+    <line x1="267" y1="350" x2="233" y2="350" stroke="#2c3e50" stroke-width="1.2" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    
+    <!-- From Object Tracking to Compliance Analysis (Row 2 to Row 3) -->
+    <line x1="180" y1="380" x2="227" y2="426" stroke="#2c3e50" stroke-width="1.2" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    <g id="stage5">
+      <rect class="st93" x="167.04" y="426.15" width="120" height="82.02" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st21" transform="translate(186.95 443.73) scale(.85 1)"><tspan x="0" y="0">Compliance Analysis</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st18" transform="translate(199.86 455.44) scale(.85 1)"><tspan x="0" y="0">Safety Rules Engine</tspan></text>
+      </g>
+      <g>
+        <g>
+          <ellipse class="st59" cx="208.67" cy="474.15" rx="8.57" ry="8.74"/>
+          <path class="st62" d="M203.77,474.15l3.67,3.75,6.12-6.25"/>
+          <g class="st22">
+            <text class="st7" transform="translate(202.14 490.4) scale(.98 1)"><tspan x="0" y="0">SAFE</tspan></text>
+          </g>
+        </g>
+        <g>
+          <ellipse class="st54" cx="245.41" cy="474.15" rx="8.57" ry="8.74"/>
+          <line class="st62" x1="240.51" y1="470.4" x2="250.31" y2="477.9"/>
+          <line class="st62" x1="240.51" y1="477.9" x2="250.31" y2="470.4"/>
+          <g class="st22">
+            <text class="st7" transform="translate(235.34 490.4) scale(.98 1)"><tspan x="0" y="0">UNSAFE</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(195.95 501.05) scale(.85 1)"><tspan x="0" y="0">Rules: Helmet + Vest + Mask</tspan></text>
+      </g>
+    </g>
+    <g id="stage4">
+      <rect class="st86" x="107.42" y="325.36" width="126" height="76.12" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st21" transform="translate(139.41 342.94) scale(.85 1)"><tspan x="0" y="0">Object Tracking</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st44" transform="translate(141.02 353.86)"><tspan x="0" y="0">EuclideanDistTracker</tspan></text>
+      </g>
+      <g>
+        <g class="st22">
+          <text class="st9" transform="translate(133.84 365.66) scale(1.09 1)"><tspan x="0" y="0">ID:1</tspan></text>
+        </g>
+        <g class="st22">
+          <text class="st9" transform="translate(164.62 365.66) scale(1.09 1)"><tspan x="0" y="0">ID:2</tspan></text>
+        </g>
+        <g class="st22">
+          <text class="st9" transform="translate(195.39 365.66) scale(1.09 1)"><tspan x="0" y="0">ID:3</tspan></text>
+        </g>
+        <rect class="st58" x="133.39" y="371.29" width="16.41" height="18.72"/>
+        <ellipse cx="141.6" cy="376.89" rx="2.05" ry="1.87"/>
+        <rect class="st60" x="137.49" y="380.65" width="8.21" height="7.49"/>
+        <rect class="st58" x="164.16" y="371.29" width="16.41" height="18.72"/>
+        <ellipse class="st63" cx="172.37" cy="376.89" rx="2.05" ry="1.87"/>
+        <rect class="st60" x="168.27" y="380.65" width="8.21" height="7.49"/>
+        <rect class="st58" x="194.94" y="371.29" width="16.41" height="18.72"/>
+        <ellipse class="st104" cx="203.15" cy="376.89" rx="2.05" ry="1.87"/>
+        <rect class="st60" x="199.04" y="380.65" width="8.21" height="7.49"/>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(146.13 399.28) scale(.85 1)"><tspan x="0" y="0">Distance: 100px threshold</tspan></text>
+      </g>
+    </g>
+    <g id="stage3">
+      <rect class="st95" x="266.99" y="299.21" width="124.9" height="102.27" rx="8" ry="8"/>
+      <g class="st22">
+        <text class="st19" transform="translate(286.98 313.07) scale(.84 1)"><tspan x="0" y="0">YOLOv8l Detection</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st19" transform="translate(315.48 327.03) scale(.84 1)"><tspan x="0" y="0">Engine</tspan></text>
+      </g>
+      <g>
+        <ellipse class="st49" cx="310.44" cy="341.46" rx="3.45" ry="3.64"/>
+        <ellipse class="st49" cx="329.99" cy="337.81" rx="3.45" ry="3.64"/>
+        <ellipse class="st49" cx="329.99" cy="345.09" rx="3.45" ry="3.64"/>
+        <ellipse class="st49" cx="349.54" cy="341.46" rx="3.45" ry="3.64"/>
+        <line class="st60" x1="313.89" y1="341.46" x2="326.54" y2="339.02"/>
+        <line class="st60" x1="313.89" y1="341.46" x2="326.54" y2="343.88"/>
+        <line class="st60" x1="333.44" y1="339.02" x2="346.09" y2="341.46"/>
+        <line class="st60" x1="333.44" y1="343.88" x2="346.09" y2="341.46"/>
+        <g class="st22">
+          <text class="st25" transform="translate(310.17 356.01) scale(.94 1)"><tspan x="0" y="0">Neural Network</tspan></text>
+        </g>
+      </g>
+      <g>
+        <g>
+          <ellipse class="st6" cx="298.76" cy="371.52" rx="6.87" ry="7.58"/>
+          <path class="st81" d="M294.18,369c3.06-2.52,6.11-2.52,9.17,0,0,3.37-1.52,5.9-4.58,7.58-3.06-1.68-4.58-4.22-4.58-7.58"/>
+          <g class="st22">
+            <text class="st45" transform="translate(289.69 386.69) scale(.9 1)"><tspan x="0" y="0">Helmet</tspan></text>
+          </g>
+        </g>
+        <g>
+          <ellipse class="st6" cx="333.14" cy="371.52" rx="8.02" ry="8.85"/>
+          <rect class="st90" x="326.26" y="365.2" width="13.75" height="12.64" rx="2" ry="2"/>
+          <path class="st61" d="M328.55,365.2v3.8M331.99,365.2v3.8M335.43,365.2v3.8M338.87,365.2v3.8"/>
+          <g class="st22">
+            <text class="st45" transform="translate(327.57 386.69) scale(.9 1)"><tspan x="0" y="0">Vest</tspan></text>
+          </g>
+        </g>
+        <g>
+          <ellipse class="st6" cx="367.51" cy="371.52" rx="9.17" ry="6.32"/>
+          <path class="st101" d="M360.64,370.26c4.58-1.68,9.17-1.68,13.75,0,0,1.68-2.29,3.37-6.87,5.06-4.58-1.68-6.87-3.37-6.87-5.06"/>
+          <ellipse class="st49" cx="364.08" cy="370.26" rx="1.15" ry="1.26"/>
+          <ellipse class="st49" cx="370.95" cy="370.26" rx="1.15" ry="1.26"/>
+          <path class="st57" d="M365.22,372.79c1.52.42,3.06.42,4.58,0"/>
+          <g class="st22">
+            <text class="st45" transform="translate(360.67 386.69) scale(.9 1)"><tspan x="0" y="0">Mask</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st22">
+        <text class="st26" transform="translate(302.42 396.13) scale(.84 1)"><tspan x="0" y="0">mAP@0.5: 96.6% | FPS: 21.5</tspan></text>
+      </g>
+    </g>
+    <g id="stage6">
+      <rect class="st91" x="73.28" y="532.78" width="90" height="70.3" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st20" transform="translate(92.35 556.21) scale(.85 1)"><tspan x="0" y="0">Visual Output</tspan></text>
+      </g>
+      <rect class="st98" x="83.28" y="567.93" width="30" height="23.43" rx="2" ry="2"/>
+      <g class="st22">
+        <text class="st15" transform="translate(93.69 579.65) scale(.85 1)"><tspan x="0" y="0">Live</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(90.22 587.85) scale(.85 1)"><tspan x="0" y="0">Stream</tspan></text>
+      </g>
+      <rect class="st101" x="118.28" y="567.93" width="30" height="23.43" rx="2" ry="2"/>
+      <g class="st22">
+        <text class="st15" transform="translate(126.93 579.65) scale(.85 1)"><tspan x="0" y="0">Video</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st15" transform="translate(125.77 587.85) scale(.85 1)"><tspan x="0" y="0">Output</tspan></text>
+      </g>
+      <rect class="st87" x="183.28" y="532.78" width="100" height="70.3" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st21" transform="translate(191.34 556.21) scale(.85 1)"><tspan x="0" y="0">PostgreSQL Database</tspan></text>
+      </g>
+      <g>
+        <ellipse class="st49" cx="202.73" cy="571.83" rx="7.45" ry="2.58"/>
+        <rect class="st49" x="195.28" y="569.25" width="14.9" height="7.74"/>
+        <ellipse class="st49" cx="202.73" cy="577" rx="7.45" ry="2.58"/>
+        <ellipse class="st49" cx="202.73" cy="582.17" rx="7.45" ry="2.58"/>
+        <line class="st65" x1="197.77" y1="571.83" x2="207.7" y2="571.83"/>
+        <line class="st66" x1="197.77" y1="574.42" x2="207.7" y2="574.42"/>
+        <line class="st64" x1="197.77" y1="579.58" x2="207.7" y2="579.58"/>
+        <g class="st22">
+          <text class="st0" transform="translate(215.15 573.12) scale(.96 1)"><tspan x="0" y="0">• Users &amp; Auth</tspan></text>
+        </g>
+        <g class="st22">
+          <text class="st0" transform="translate(215.48 581.85) scale(.96 1)"><tspan x="0" y="0">• Detection Data</tspan></text>
+        </g>
+        <g class="st22">
+          <text class="st0" transform="translate(215.48 590.37) scale(.96 1)"><tspan x="0" y="0">• Activity Logs</tspan></text>
+        </g>
+      </g>
+      <rect class="st94" x="303.28" y="532.78" width="80" height="70.3" rx="6" ry="6"/>
+      <g class="st22">
+        <text class="st21" transform="translate(308.83 556.21) scale(.85 1)"><tspan x="0" y="0">Admin Dashboard</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st18" transform="translate(316.72 573.79) scale(.85 1)"><tspan x="0" y="0">• User Management</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st18" transform="translate(318.56 585.5) scale(.85 1)"><tspan x="0" y="0">• System Statistics</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st18" transform="translate(323.39 597.22) scale(.85 1)"><tspan x="0" y="0">• Audit Reports</tspan></text>
+      </g>
+    </g>
+    <!-- From Compliance Analysis to Output Components -->
+    <line x1="227" y1="508" x2="99" y2="533" stroke="#2c3e50" stroke-width="1.2" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    <line x1="227" y1="508" x2="214" y2="533" stroke="#2c3e50" stroke-width="1.2" marker-end="url(#gradientArrow)" opacity="0.7"/>
+    <line x1="227" y1="508" x2="324" y2="533" stroke="#2c3e50" stroke-width="1.2" marker-end="url(#gradientArrow)" opacity="0.7"/>
+  </g>
+  
+  <!-- Wave Edge Pattern Between Architecture and Features Section -->
+  <path d="M0,630 Q71,620 142,630 T284,630 Q355,625 426,630" stroke="#3498db" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M0,635 Q53.25,625 106.5,635 T213,635 Q266.25,630 319.5,635 T426,635" stroke="#2980b9" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Technology Icons Around Edges with Transparency -->
+  <g opacity="0.3" style="z-index: 1000;">
+    <!-- Title Section Tech Icons - All Circles with Centered Text -->
+    <!-- Top Left Corner -->
+    <circle fill="#3776ab" cx="25" cy="25" r="8"/>
+    <text x="25" y="29" text-anchor="middle" font-family="Arial" font-size="6" fill="white">Py</text>
+    
+    <!-- Top Center Left -->
+    <circle fill="#00d4aa" cx="97" cy="25" r="8"/>
+    <text x="97" y="29" text-anchor="middle" font-family="Arial" font-size="5" fill="white">YOLO</text>
+    
+    <!-- Top Center -->
+    <circle fill="#336791" cx="213" cy="25" r="8"/>
+    <text x="213" y="29" text-anchor="middle" font-family="Arial" font-size="5" fill="white">PG</text>
+    
+    <!-- Top Center Right -->
+    <circle fill="#5c85d6" cx="327" cy="25" r="8"/>
+    <text x="327" y="29" text-anchor="middle" font-family="Arial" font-size="5" fill="white">CV</text>
+    
+    <!-- Top Right Corner -->
+    <circle fill="#76b900" cx="401" cy="25" r="8"/>
+    <text x="401" y="29" text-anchor="middle" font-family="Arial" font-size="5" fill="white">GPU</text>
+    
+    <!-- Mid-Left -->
+    <circle fill="#7952b3" cx="15" cy="60" r="7"/>
+    <text x="15" y="64" text-anchor="middle" font-family="Arial" font-size="4" fill="white">BS</text>
+    
+    <!-- Mid-Right -->
+    <circle fill="#e34f26" cx="410" cy="60" r="7"/>
+    <text x="410" y="64" text-anchor="middle" font-family="Arial" font-size="4" fill="white">H5</text>
+    
+    <!-- Bottom Left -->
+    <circle fill="#0769ad" cx="15" cy="105" r="7"/>
+    <text x="15" y="109" text-anchor="middle" font-family="Arial" font-size="4" fill="white">jQ</text>
+    
+    <!-- Bottom Center Left -->
+    <circle fill="#ff6b6b" cx="110" cy="105" r="7"/>
+    <text x="110" y="109" text-anchor="middle" font-family="Arial" font-size="4" fill="white">API</text>
+    
+    <!-- Bottom Center Right -->
+    <circle fill="#2c3e50" cx="316" cy="105" r="7"/>
+    <text x="316" y="109" text-anchor="middle" font-family="Arial" font-size="4" fill="white">JS</text>
+    
+    <!-- Bottom Right -->
+    <circle fill="#f1c40f" cx="405" cy="105" r="7"/>
+    <text x="405" y="109" text-anchor="middle" font-family="Arial" font-size="4" fill="black">AI</text>
+    
+    <!-- Additional Bottom Center -->
+    <circle fill="#e67e22" cx="213" cy="105" r="7"/>
+    <text x="213" y="109" text-anchor="middle" font-family="Arial" font-size="4" fill="white">ML</text>
+  </g>
+  
+  <rect class="st100" y="640" width="426" height="300.1"/>
+  <g class="st22">
+    <text class="st32" transform="translate(104.82 670)"><tspan x="0" y="0">Key Features &amp; Applications</tspan></text>
+  </g>
+  <g>
+    <rect class="st52" x="30" y="690" width="180" height="60" rx="8" ry="8"/>
+    <circle class="st101" cx="50" cy="710" r="10"/>
+    <g class="st22">
+      <text class="st35" transform="translate(45.33 715)"><tspan x="0" y="0">RT</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st8" transform="translate(70 708)"><tspan x="0" y="0">Real-time Detection</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 720)"><tspan x="0" y="0">• Live video processing</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 730)"><tspan x="0" y="0">• Instant PPE identification</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 740)"><tspan x="0" y="0">• Immediate alerts</tspan></text>
+    </g>
+    <rect class="st51" x="220" y="690" width="180" height="60" rx="8" ry="8"/>
+    <circle class="st103" cx="240" cy="710" r="10"/>
+    <g class="st22">
+      <text class="st35" transform="translate(235.53 715)"><tspan x="0" y="0">3C</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st8" transform="translate(260 708)"><tspan x="0" y="0">Multi-class Detection</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 720)"><tspan x="0" y="0">• Safety helmets</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 730)"><tspan x="0" y="0">• High-visibility vests</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 740)"><tspan x="0" y="0">• Face masks</tspan></text>
+    </g>
+    <rect class="st53" x="30" y="760" width="180" height="60" rx="8" ry="8"/>
+    <circle class="st90" cx="50" cy="780" r="10"/>
+    <g class="st22">
+      <text class="st35" transform="translate(44.56 785)"><tspan x="0" y="0">UM</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st8" transform="translate(70 778)"><tspan x="0" y="0">User Management</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 790)"><tspan x="0" y="0">• Role-based access</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 800)"><tspan x="0" y="0">• Admin dashboard</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(70 810)"><tspan x="0" y="0">• Activity tracking</tspan></text>
+    </g>
+    <rect class="st48" x="220" y="760" width="180" height="60" rx="8" ry="8"/>
+    <circle class="st105" cx="240" cy="780" r="10"/>
+    <g class="st22">
+      <text class="st35" transform="translate(234.94 785)"><tspan x="0" y="0">DA</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st8" transform="translate(260 778)"><tspan x="0" y="0">Data Analytics</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 790)"><tspan x="0" y="0">• Compliance reports</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 800)"><tspan x="0" y="0">• Statistical analysis</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st13" transform="translate(260 810)"><tspan x="0" y="0">• Performance metrics</tspan></text>
+    </g>
+    <rect class="st46" x="30" y="830" width="366" height="100.24" rx="8" ry="8"/>
+    <g class="st22">
+      <text class="st12" transform="translate(166.34 850)"><tspan x="0" y="0">Application Areas</tspan></text>
+    </g>
+    <g>
+      <!-- Construction Sites -->
+      <circle class="st116" cx="70" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(66 875)"><tspan x="0" y="0">CS</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(52 888)"><tspan x="0" y="0">Construction</tspan></text>
+      </g>
+      
+      <!-- Manufacturing -->
+      <circle class="st115" cx="120" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(116 875)"><tspan x="0" y="0">MF</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(101 888)"><tspan x="0" y="0">Manufacturing</tspan></text>
+      </g>
+      
+      <!-- Mining Operations -->
+      <circle class="st97" cx="170" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(166 875)"><tspan x="0" y="0">MO</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(158 888)"><tspan x="0" y="0">Mining</tspan></text>
+      </g>
+      
+      <!-- Healthcare -->
+      <circle class="st113" cx="220" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(216 875)"><tspan x="0" y="0">HC</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(202 888)"><tspan x="0" y="0">Healthcare</tspan></text>
+      </g>
+      
+      <!-- Transportation -->
+      <circle class="st99" cx="270" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(266 875)"><tspan x="0" y="0">TR</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(252 888)"><tspan x="0" y="0">Transport</tspan></text>
+      </g>
+      
+      <!-- Chemical Plants -->
+      <circle class="st116" cx="320" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(316 875)"><tspan x="0" y="0">CP</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(303 888)"><tspan x="0" y="0">Chemical</tspan></text>
+      </g>
+      
+      <!-- Airports -->
+      <circle class="st80" cx="370" cy="870" r="8"/>
+      <g class="st22">
+        <text class="st39" transform="translate(366 875)"><tspan x="0" y="0">AP</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st41" transform="translate(353 888)"><tspan x="0" y="0">Airports</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st29" transform="translate(91.05 905)"><tspan x="0" y="0">Multi-Industry Solution</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st29" transform="translate(278.83 905)"><tspan x="0" y="0">Safety Compliance</tspan></text>
+      </g>
+      <g class="st22">
+        <text class="st13" transform="translate(146.15 920)"><tspan x="0" y="0">Versatile PPE Detection Across Industries</tspan></text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Wave Edge Pattern Between Features and Project Team Section -->
+  <path d="M0,930 Q71,920 142,930 T284,930 Q355,925 426,930" stroke="#667eea" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M0,935 Q53.25,925 106.5,935 T213,935 Q266.25,930 319.5,935 T426,935" stroke="#764ba2" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <rect class="st82" y="938.04" width="426" height="191.96"/>
+  <g class="st22">
+    <text class="st27" transform="translate(163.35 960)"><tspan x="0" y="0">Project Team</tspan></text>
+  </g>
+  <g>
+    <rect fill="rgba(255,255,255,0.1)" stroke="white" stroke-width="1" x="30" y="980" width="115.03" height="61.26" rx="8" ry="8"/>
+    <g class="st22">
+      <text class="st16" transform="translate(48.4 1005.66) scale(1.02 1)"><tspan x="0" y="0">Javeria Rehman</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st17" transform="translate(55.2 1025.95) scale(1.02 1)"><tspan x="0" y="0">ID: FA21-BIT-011</tspan></text>
+    </g>
+    <rect fill="rgba(255,255,255,0.1)" stroke="white" stroke-width="1" x="155.49" y="980" width="115.03" height="61.26" rx="8" ry="8"/>
+    <g class="st22">
+      <text class="st16" transform="translate(183.08 1005.53) scale(1.02 1)"><tspan x="0" y="0">Maryam Issa</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st17" transform="translate(180.69 1025.95) scale(1.02 1)"><tspan x="0" y="0">ID: FA21-BIT-014</tspan></text>
+    </g>
+    <rect fill="rgba(255,255,255,0.1)" stroke="white" stroke-width="1" x="280.97" y="980" width="115.03" height="61.26" rx="8" ry="8"/>
+    <g class="st22">
+      <text class="st16" transform="translate(302.47 1005.53) scale(1.02 1)"><tspan x="0" y="0" xml:space="preserve">   Umair Aziz</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st17" transform="translate(306.17 1025.95) scale(1.02 1)"><tspan x="0" y="0">ID: FA21-BIT-025</tspan></text>
+    </g>
+    <rect fill="rgba(255,255,255,0.15)" stroke="white" stroke-width="2" x="92.74" y="1051.47" width="250.97" height="56.25" rx="8" ry="8"/>
+    <g class="st22">
+      <text class="st11" transform="translate(167.08 1071.89) scale(1.02 1)"><tspan x="0" y="0">Project Supervisor</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st38" transform="translate(180.44 1087.21) scale(1.02 1)"><tspan x="0" y="0">Ms. Asma Jabeen</tspan></text>
+    </g>
+    <g class="st22">
+      <text class="st17" transform="translate(202.89 1100.48) scale(1.02 1)"><tspan x="0" y="0">Lecturer</tspan></text>
+    </g>
+  </g>
+  
+  <!-- Wave Edge Pattern Between Project Team and Department Section -->
+  <path d="M0,1130 Q71,1120 142,1130 T284,1130 Q355,1125 426,1130" stroke="rgba(255,255,255,0.3)" stroke-width="3" fill="none"/>
+  <path d="M0,1135 Q53.25,1125 106.5,1135 T213,1135 Q266.25,1130 319.5,1135 T426,1135" stroke="rgba(255,255,255,0.2)" stroke-width="2" fill="none"/>
+  
+  <!-- Department Section with Wave Design -->
+  <!-- Main Department Background with Gradient -->
+  <defs>
+    <linearGradient id="deptGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a252f;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="deptGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="deptGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5dade2;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#85c1e9;stop-opacity:0.4" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Department Background -->
+  <rect width="426" height="140" y="1140" fill="url(#deptGradient1)"/>
+  
+  <!-- Department Wave Layer 1 (Bottom layer) -->
+  <path d="M0,1180 Q106.5,1160 213,1180 T426,1180 L426,1280 L0,1280 Z" fill="url(#deptGradient2)"/>
+  
+  <!-- Department Wave Layer 2 (Middle layer) -->
+  <path d="M0,1200 Q85.2,1185 170.4,1200 T340.8,1200 Q383.4,1190 426,1200 L426,1280 L0,1280 Z" fill="url(#deptGradient3)"/>
+  
+  <!-- Department Wave Layer 3 (Top layer) -->
+  <path d="M0,1220 Q71,1210 142,1220 T284,1220 Q355,1215 426,1220 L426,1280 L0,1280 Z" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Department decorative wave details -->
+  <path d="M0,1170 Q53.25,1155 106.5,1170 T213,1170 Q266.25,1160 319.5,1170 T426,1170" stroke="rgba(255,255,255,0.4)" stroke-width="2" fill="none"/>
+  <path d="M0,1190 Q42.6,1175 85.2,1190 T170.4,1190 Q213,1185 255.6,1190 T340.8,1190 Q362.1,1185 383.4,1190 T426,1190" stroke="rgba(255,255,255,0.3)" stroke-width="1.5" fill="none"/>
+  <g class="st22">
+    <text class="st4" transform="translate(87.76 1175)"><tspan x="0" y="0">Department of Computer Science and</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st4" transform="translate(133.8 1195)"><tspan x="0" y="0">Information Technology</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st33" transform="translate(185.01 1220)"><tspan x="0" y="0">(MUST)</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st14" transform="translate(116.55 1245)"><tspan x="0" y="0">Final Year Project - Academic Year 2021-25</tspan></text>
+  </g>
+  <g class="st22">
+    <text class="st2" transform="translate(138.15 1265)"><tspan x="0" y="0">Mirpur University of Science &amp; Technology</tspan></text>
+  </g>
+</svg>
