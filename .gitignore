@@ -1,22 +1,23 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tif
-*.tiff
-*.heic
-*.JPG
-*.JPEG
-*.PNG
-*.BMP
-*.TIF
-*.TIFF
-*.HEIC
-*.mp4
-*.mov
-*.MOV
-*.avi
+# Allow specific image/video files (commented out to include them)
+# *.jpg
+# *.jpeg
+# *.png
+# *.bmp
+# *.tif
+# *.tiff
+# *.heic
+# *.JPG
+# *.JPEG
+# *.PNG
+# *.BMP
+# *.TIF
+# *.TIFF
+# *.HEIC
+# *.mp4
+# *.mov
+# *.MOV
+# *.avi
 *.data
 *.json
 *.cfg
@@ -53,9 +54,10 @@ val2017.zip
 !targets*.mat
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
-*.weights
-*.pt
-*.pb
+# Allow model weights (commented out to include them)
+# *.weights
+# *.pt
+# *.pb
 *.onnx
 *.engine
 *.mlmodel
@@ -155,9 +157,11 @@ celerybeat-schedule
 *.sage.py
 
 # dotenv
-.env
+# Allow config.env (commented out to include it)
+# .env
 
 # virtualenv
+.env/
 .venv*
 venv*/
 ENV*/
@@ -262,5 +266,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Ignore environment configuration files
-config.env
+# Allow environment configuration files (commented out to include them)
+# config.env
